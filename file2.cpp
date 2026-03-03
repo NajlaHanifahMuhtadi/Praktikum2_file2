@@ -5,4 +5,5 @@ int p, l;
 
 void input(){
     cout << "Masukkan pnjang = ";
+    cin >> p;
 }
